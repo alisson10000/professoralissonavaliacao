@@ -47,7 +47,7 @@
                 <?php
                 while ($row = mysqli_fetch_array($query)) {
                     ?>
-                <option value="<?php echo $row['idCurso']; ?>" ><?php echo $row['nomeCurso']; /* echo $row['idCurso']; */ ?></option>
+                <option value="<?php echo $row['idCurso']; ?>" ><?php echo mb_convert_encoding($row['nomeCurso'],'UTF-8'); /* echo $row['idCurso']; */ ?></option>
                     <?php
                 }
                 ?>

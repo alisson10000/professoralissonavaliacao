@@ -36,7 +36,7 @@ $query = mysqli_query($link, $query);
             <?php
              $numPergunta = $contador + 1 ;
             
-            echo $numPergunta." ) ".$row['enunciadoPergunta'];
+            echo $numPergunta." ) ".mb_convert_encoding($row['enunciadoPergunta'],'UTF-8');
             ?>
 
             <input type="hidden" name="idPergunta[<?php echo $contador ?>]" value="<?php echo $row['idPergunta'] ?>" >

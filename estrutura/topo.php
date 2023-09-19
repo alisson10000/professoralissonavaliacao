@@ -9,7 +9,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
+        <meta charset="ISO-8859-1">
 
         <meta name="author" content="Alisson lima">
         <link rel="icon" type="image/ico" href="imagens/logo2.ico" />
