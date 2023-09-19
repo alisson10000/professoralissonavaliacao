@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/10/2019, 23:06:47
+    Author     : alisson
+*/
+
+#conteudo{
+    background-color: #e2ebff;
+    border-radius: 5px;
+}
+
+#conteudo p{
+    text-align: center;
+    padding-top:  5%;
+    color: #9b7419;
+    /*    text-transform: uppercase;*/
+    font-size: xx-large;
+}
+#conteudo ol {
+    margin-top:
+        3%;
+}
+#conteudo ol li{
+    color: #9b7419; 
+}
+select#idCurso, select#periodoPergunta{
+    background: #264889;
+    height: 120px;
+    width:250px;
+    border-radius: 20px;
+    color: white;
+    float: left;
+/*    margin-bottom: 3%;*/
+    margin-right: 2%;
+    margin-top: 3%;
+    text-align: center;
+
+} 
+
+button#selecionaProva, button{
+    margin-top: 30px;
+    margin-left: 300px;
+    float: left;
+    background: #264889;
+    height:120px;
+    width:180px;
+    border-radius: 20px;
+    color: white;
+    margin-left:5% ;
+    transition:linear .9s;
+}
+
+/*button#selecionaProva, button:hover{
+
+    background: #cccc00;
+    transform: rotateX(360deg);
+    color: black;
+    transition:linear .9s;
+
+}
+*/
+

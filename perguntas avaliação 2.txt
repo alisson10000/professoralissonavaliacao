@@ -1,0 +1,296 @@
+Excel avançado****
+1-Em cenários é utilizado o teste de hipóteses para gerar tablelas onde possam ser avaliados previsões em valores de investimento.
+certo
+
+2-Em metas ao realizar o teste de hipóteses NÂO há necessidade de definir uma célula para que a meta seja atingida.
+errado
+
+
+3-Ao realizar consolidção de dados só é possivel ser feito obtendo os dados de uma só plhanilha.
+A função subtotal é utlizada para obter apenas a somas  de valores de uma subregião de  matriz de valores, sendo assim
+não é possivel utilizar as funções junto a elas:(média, Cont.Num, Cont.Valores, Maximo, Minimo...etc).
+
+errado
+
+4-Na tabela dinâmica não há necessidade de atualizar as informações quando as mesmas são alteradas
+
+errado
+
+5-Em tabela dinâmica pode ser utilizada o método de segmentação de dados.
+
+certo
+
+
+6-Uma macro no Excel, ou também em outro programa do pacote Office, é uma gravação feita
+ pelo usuário de maneira que ele possa reutilizar
+ o processo para automatizar tarefas.
+
+certo
+
+
+7-O Visual Basic for Applications (VBA) é uma implementação do Visual 
+Basic da Microsoft incorporada em todos os programas do Microsoft Office
+ - dentro desse pacote estão os famosos
+ aplicativos Office (Word, Excel, Power Point, Access, etc).
+
+certo
+
+8-Ao escrever um programa em VBA não existe a necessidade de declarar as variáveis.
+errado
+
+9-Os operadores aritméticos não podem ser utilizados para cálculos matemáticos.
+
+errado
+
+10-A estrutura condicional SE (if) é utlizada quando existe a necessidade de realizar um ou mais testes lógicos.
+
+certo
+
+========================================================================================================================
+POWERPOINT E EXCEL
+
+
+1-Microsoft PowerPoint é um programa utilizado para criação/edição e exibição de
+ apresentações gráficas, originalmente escrito para o sistema operacional Windows
+ e portado para a plataforma Mac OS X. A versão para Windows também funciona no Linux
+ através da camada de compatibilidade Wine. Há ainda uma versão mobile para smartphones
+ que rodam o sistema Windows Phone.
+
+CERTO
+
+2-Nas apresentações de slides não é possivel colocar vídeos.
+
+ errado
+
+3-Um slide mestre é o slide principal em uma hierarquia de slides que armazena todas as informações
+ sobre o tema e os layouts de slide de uma apresentação, inclusive o plano de fundo, a cor, as fontes, 
+os efeitos, os tamanhos de espaços reservados e o posicionamento.
+
+certo
+
+4-PPT é a extenção de um arquivo em PowerPoint.
+
+certo
+
+5-O Microsoft Excel é um editor de planilhas (Folhas de Cálculo) produzido pela Microsoft para
+ computadores que utilizam o sistema operacional Microsoft Windows, além de computadores
+ Macintosh da Apple Inc. e dispositivos móveis como o Windows Phone, Android ou o iOS.
+ Seus recursos incluem uma interface intuitiva e capacitadas ferramentas de cálculo e 
+de construção de tabelas que, juntamente com marketing agressivo, tornaram o Excel um
+ dos mais populares aplicativos de computador até hoje. É, com grande vantagem, o aplicativo
+ de planilha electrónica dominante, disponível para essas plataformas e o tem sido desde a versão
+ 5 em 1993 e sua inclusão como parte do Microsoft Office.
+
+certo
+
+6-Na função a seguir =soma(A1:A10) serão apenas somados os valores das células A1 e A10.
+errado
+
+7-A fórmula ÍNDICE é utilizada para retornar um valor de célula específica de uma matriz relacionada
+ e a mesma pode buscar valores em uma ou mais matrizes, na fórmula a seguir: =ÍNDICE((B6:E9;I6:L9;B16:E19;I16:L19);1;2;4),
+ podemos afirmar que na busca realizada foram selecionadas quatro áreas diferentes para retornar uma valor de consulta.
+certo
+
+8-A fórmula SEERRO do EXCEL é utilizada para tratamento de erros ,ou seja, caso o EXCEL apresente algum dado
+ inconsistente ela pode informar ao usuário alguma resposta de retorno e a mesma não pode ser utilizada em 
+conjunto com outras funções.
+
+errado
+
+9-Ao trabalharmos com o Excel o mesmo oferece um recurso muito interessante que 
+é a possibilidade de selecionar uma fórmula e arrastá-la para atingir diversas linhas 
+ou colunas. Entretanto em algumas situações é necessário que um valor na fórmula seja fixado.
+ Então, podemos dizer que, para essa ação é necessário utilizar o símbolo $ para que isso possa acontecer.
+
+certo
+
+
+10-A função corresp retorna o valor repectivo da linha que está sendo procurado.
+
+certo
+
+
+********************************************************
+
+
+APPINVENTOR
+
+
+1-Os componentes web e notifier são considerados não visiveis pois os mesmos não influenciam 
+na interce do aplicativo.
+
+certo
+
+2-O componente TimePicker é utilizado para informar a data em uma aplicação.
+
+errado
+
+ 3- O componente DatePicker é utilizado para informar a hora em uma aplicação.
+
+errado
+
+4-Na paleta Storage os componentes lá são utilizado para salvar as informações no banco de dados.
+
+certo
+
+5-Na chamada do componente notifier é utilizado para enviar mensagens aos usuários.
+
+certo
+
+6- Um aplicativo não pode trabalhar em conjunto com outra linguagem de programação.
+
+errado
+
+7 - Um aplicativo feito no app inventor consegue compartilhar as informações no banco de dados
+em um programa servidor.
+
+certo
+
+8- Uma variável do tipo array pode armazenar mais de um elemento.
+ certo
+
+9- É possivel realizar a cópia de codigos no App Inventor com a tecla de atalho ctrl-v.
+certo
+
+10- O método set é utilizado para colocar valor em uma variável e  o método get é para 
+pegar o valor que está em uma variável.
+
+certo
+
+
+=====================================================================================================
+
+programação web
+
+
+1- O arquivo de conexao.php é utlizado para a aplicação interagir com o banco de dados.
+
+certo
+
+2 - A função mysqli_query è utlizada para realizações de consutlas no banco de dados.
+
+certo
+
+3- A função mysqli_num_rows é utilizada para realizar a contagem de ocorrencias no banco de dados.
+
+certo
+
+4- O metodo POST possui menos segurança que o método get.
+
+errado
+
+5-A session é um recurso do php utilizado para passar informações entre páginas de um projeto.
+
+certo
+
+6- A consulta: select * from nomeDaTabela, retorna apenas uma ocorrencia do banco de dados.
+
+errado
+
+7- O acrônimo MER pode ser entendido como modelo de entidade e relacionamento.
+
+certo
+
+8- O phpmyadmin é uma interface para facilitar a comunicação com o banco de dados.
+
+certo
+
+9- A consulta update é utlizada para deletar registros no banco de dados.
+
+errado
+
+10- Nos projetos desenvolvidos a pasta de serviços é utlizada para os códigos de interface 
+com o usuário.
+
+errado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

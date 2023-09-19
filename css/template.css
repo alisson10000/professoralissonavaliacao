@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02/10/2019, 09:19:42
+    Author     : Usuario
+*/
+html{
+    background-color: #b8cfff;
+}
+*{
+    margin: 0px;
+
+}
+/*
+Segue abaixo configuração de estilo do topo.
+*/
+#topo{
+    /*    border: 1px solid black;*/
+    width: 1024px;
+    height:50px;
+    margin: 0 auto;
+    border-radius: 10px 10px 10px 10px ;
+
+
+}
+#menu{
+    /*border: 01px solid green;*/
+    width: 1024px;
+    height: 40px;
+
+}
+#conteudo{
+    /*border: 01px solid red;*/
+    width: 1024px;
+    height:450px;
+/*    background: #ffff00;*/
+
+
+}
+#noticias{
+    border: 01px solid red;
+    width: 300px;
+    height :20px;
+}
+#conteudoGeral{
+    /*border: 01px solid yellow;*/
+    width: 1024px;
+    height: 800px;
+    margin: 0 auto;
+
+}
+#rodape{
+    /*border: 01px solid blue;*/
+    
+    margin-top: 20px;
+    width: 1024px;
+    height: 60px;
+    /*background: yellow;*/
+    margin-bottom: 10px;
+}
+
+/*
+Fim da  configuração do estilo do topo.
+*/
+

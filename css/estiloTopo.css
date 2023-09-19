@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/10/2019, 22:33:31
+    Author     : alisson
+*/
+
+#topo{
+    background-color: #264889;   
+}
+
+#topo p{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size:30px;
+    color: white;
+    padding-top:1%;
+}
+#topo img{
+    width:10%;
+    height:100%;
+    border-radius: 5px 0px 0px 5px;
+    float: left;
+}
